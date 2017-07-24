@@ -1,0 +1,4 @@
+.idea
+log.txt
+*.iml
+__pycache__/
